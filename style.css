@@ -39,3 +39,11 @@ div{
 #tabla1{
     padding: 10px;
 }
+
+#titulo-grande{
+    font-size: 30px;
+}
+
+li{
+    color: purple;
+}

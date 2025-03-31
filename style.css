@@ -47,3 +47,17 @@ div{
 li{
     color: purple;
 }
+
+#pamarrilo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+
+#tablepro{
+    border: 1px solid black;
+}
+
+.thtabla{
+    padding: 5px;
+}

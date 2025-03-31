@@ -1,0 +1,23 @@
+body{
+    background-color: lightgreen;
+}
+
+#primerh1{
+    color: blue;
+    text-align: center;
+    font-size: 28px;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+ul{
+   font-weight: bold; 
+   color: brown;
+}
+
+img{
+    border: 3px dotted black;
+}
